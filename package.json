@@ -1,0 +1,19 @@
+{
+  "name": "ece461-nopr-samplerepo",
+  "version": "1.0.0",
+  "description": "What's a PR?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlelievre26/ECE461-NoPR-SampleRepo.git"
+  },
+  "author": "ECE 461 Teaching Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlelievre26/ECE461-NoPR-SampleRepo/issues"
+  },
+  "homepage": "https://github.com/tlelievre26/ECE461-NoPR-SampleRepo#readme"
+}
